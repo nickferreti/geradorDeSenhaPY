@@ -1,1 +1,1 @@
-# Geradores de senha aleatórias e unicas usando python apenas
+![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
