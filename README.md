@@ -1,1 +1,1 @@
-# geradorDeSenhaPY
+# Geradores de senha aleatórias e unicas usando python apenas
